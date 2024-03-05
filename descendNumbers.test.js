@@ -10,5 +10,3 @@ test("3 xonali sonni teskari qilib beradigan funksiya", () => {
   expect(descendNumbers(425)).not.toBe(524);
   expect(descendNumbers(321)).not.toBe(121);
 });
-
-// console.log(descendNumbers(321) == 123);
